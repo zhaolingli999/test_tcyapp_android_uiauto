@@ -1,0 +1,2 @@
+# test_tcyapp_android_uiauto
+同城游app安卓版自动化测试代码+脚本
